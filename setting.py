@@ -1,0 +1,7 @@
+KEYWORD = 0
+ACCOUNT = 1
+
+USERNAME = ""
+PASSWORD = ""
+
+OUTPUT_FOLDER = "dataset"
